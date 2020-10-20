@@ -5,6 +5,10 @@ $ php spark serve
 
 before run project, make sure that you have import nakulasadewa.sql to your mysql database.
 
+## login to admin
+email : admin@mail.com
+pass : admin
+
 ## Server Requirements
 
 PHP version 7.2 or higher is required, with the following extensions installed: 
